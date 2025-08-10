@@ -1,0 +1,76 @@
+body {
+  background-color: black;
+  font-family: Verdana, Geneva, sans-serif;
+  color: white;
+}
+
+.centered-image {
+  text-align: center;
+}
+
+header {
+  text-align: center;
+  padding: 50px 20px;
+}
+
+header h1 {
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+}
+
+header p a {
+  font-size: 16px;
+  color: aquamarine;
+  text-decoration: none;
+}
+
+video {
+  width: 100%;
+}
+
+.travel-guide {
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.travel-guide h2 {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+.travel-guide p {
+  font-size: 21px;
+  color: gray;
+}
+
+main img {
+  max-width: 100%;
+  height: auto;
+  margin: 50px auto;
+}
+
+.coming-soon {
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.coming-soon h2 {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+.coming-soon p a {
+  font-size: 16px;
+  color: aquamarine;
+  text-decoration: none;
+}
+
+footer {
+  text-align: right;
+  color: gray;
+  padding: 20px;
+  font-size: 12px;
+}
